@@ -1,0 +1,19 @@
+{
+  "name": "02-javascript-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.25.4",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-babel": "^8.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
